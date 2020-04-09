@@ -1,1 +1,1 @@
-# nextjs-redux-boilerplate
+### Nextjs + redux with persist boiler plate
